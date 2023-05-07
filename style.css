@@ -89,3 +89,11 @@ body {
   footer p {
     margin: 0;
   }
+iframe {
+  padding: 5px;
+  justify-content: center;
+}
+#maptext {
+  flex-wrap: wrap;
+  justify-content: right;
+}
